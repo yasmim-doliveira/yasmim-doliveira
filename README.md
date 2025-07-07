@@ -20,7 +20,7 @@ My name is Yasmim D´oliveira. 👩‍💻
 ### Let's connect? 🤝 
  
 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BwQD%2F5SBMTRimJW7mFpkL1A%3D%3D"/></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BwbgA%2BVqJQ6qGBdfgcmxnow%3D%3D"/></a>
 <a href="https://www.instagram.com/yasmimsilxyz2_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:doliveirayasmim03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
