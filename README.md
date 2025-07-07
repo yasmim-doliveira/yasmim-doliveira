@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1><img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> Hello, World ! </h1>
+========================================================================================
 
-<!--
-**yasmim-doliveira/yasmim-doliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yasmim D´oliveira. 👩‍💻
 
-Here are some ideas to get you started:
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools 🛠  
+
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
+
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmim-doliveira&layout=compact&count_private=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yasmim-doliveira&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=yasmim-doliveira&count_private=true&show_icons=true)
+
+
+### Let's connect? 🤝 
+ 
+
+<a href="www.linkedin.com/in/yasmim-silva-d´oliveira-a06735373"/></a>
+<a href="https://www.instagram.com/yasmimsilxyz2_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:doliveirayasmim03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
