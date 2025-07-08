@@ -10,11 +10,7 @@ My name is Yasmim D´oliveira. 👩‍💻
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
 
 
-### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmim-doliveira&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yasmim-doliveira&hide_border=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=yasmim-doliveira&count_private=true&show_icons=true)
 
 
 ### Let's connect? 🤝 
