@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/></h1><div align="center" style="background-color:#f3e8ff; padding: 20px; border-radius: 12px;">
+<h1><img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/></h1><div style="background-color:#f3e8ff; padding: 20px; border-radius: 12px;">
 
 <h1 style="color:#9333ea;">Welcome to my GitHub!</h1>
 
