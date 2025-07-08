@@ -15,7 +15,7 @@ My name is Yasmim D´oliveira. 👩‍💻
 
 ### 🌐 Let's Connect!
 
-<div align="center">
+<div>
   <a href="https://www.instagram.com/yasmimsilxyz2_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23C084FC?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
