@@ -1,4 +1,3 @@
-<div style="background-color:#f3e8ff;>
 <h1><img src="https://slackmojis.com/emojis/60881-meow_attention/download" width="30"/> Welcome to my GitHub! 👩‍💻 </h1>
 
 
@@ -34,4 +33,4 @@ My name is Yasmim D´oliveira. 👩‍💻
 <p align="center"><strong style="color:#a855f7;">✨ Obrigada por visitar meu perfil ✨</strong></p>
 
 
-</div>
+
